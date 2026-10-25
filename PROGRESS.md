@@ -8,3 +8,4 @@ Una riga per ogni pull request mergiata.
 - Entry #4
 - Entry #5
 - Entry #6
+- Entry #7
