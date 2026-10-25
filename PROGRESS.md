@@ -44,3 +44,4 @@ Una riga per ogni pull request mergiata.
 - Entry #40
 - Entry #41
 - Entry #42
+- Entry #43
