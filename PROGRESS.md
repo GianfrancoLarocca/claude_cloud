@@ -14,3 +14,4 @@ Una riga per ogni pull request mergiata.
 - Entry #10
 - Entry #11
 - Entry #12
+- Entry #13
