@@ -61,3 +61,4 @@ Una riga per ogni pull request mergiata.
 - Entry #57
 - Entry #58
 - Entry #59
+- Entry #60
